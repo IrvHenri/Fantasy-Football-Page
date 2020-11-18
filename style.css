@@ -1,0 +1,185 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --primaryColor: #41980a;
+}
+
+body {
+  margin: 0;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 1rem;
+  color: #404040;
+  text-align: center;
+}
+
+/* -------------- */
+/* ----TYPOGRAPHY---------- */
+/* -------------- */
+
+h1 {
+  font-size: 2.25rem;
+  font-weight: 300;
+  color: #ffffff;
+  margin: 0;
+}
+
+h1 + p {
+  color: var(--primaryColor);
+  font-weight: 900;
+  font-size: 1.3125rem;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+h2 {
+  font-size: 1.3125rem;
+  margin: 0;
+}
+
+h2 + p {
+  color: var(--primaryColor);
+  font-weight: 900;
+  font-size: 1rem;
+  text-transform: uppercase;
+  margin-top: 0;
+}
+
+.top-text {
+  font-size: 0.825rem;
+  margin: 0;
+  padding-top: 2px;
+  font-weight: 900;
+  color: var(--primaryColor);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  order: -1;
+  border-top: 5px solid var(--primaryColor);
+  border-image: linear-gradient(to left, #117c13, #41980a) 1;
+}
+
+.fine-print {
+  font-size: 0.625rem;
+  letter-spacing: 1px;
+}
+
+strong {
+  font-weight: 900;
+  color: var(--primaryColor);
+}
+
+/* -------------- */
+/* ----INTRO---------- */
+/* -------------- */
+
+/* ----**FIX Background IMG at larger screen */
+.intro {
+  background-color: #404040;
+  background-image: url(img/footballField.jpg);
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-position: center;
+  padding: 0 0.5em 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 50vh;
+}
+
+/* -------------- */
+/* ----MAIN CONTENT SECTION--------- */
+/* -------------- */
+
+.main-content {
+  padding: 2em 1em;
+}
+
+.intro > *,
+.main-content > * {
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* -------------- */
+/* ----FORM---- */
+/* -------------- */
+
+.email-collector {
+  width: 80%;
+  max-width: 300px;
+}
+
+input,
+.btn {
+  width: 100%;
+  border-radius: 5px;
+}
+
+input {
+  font-family: inherit;
+  text-align: inherit;
+  margin-bottom: 0.75rem;
+  padding: 0.25em;
+  border: 1px solid #404040;
+  border-radius: 5px;
+  transform: scale(1);
+  transition: transform 200ms;
+  outline: none;
+}
+
+input:focus {
+  transform: scale(1.1);
+}
+
+.btn {
+  display: inline-block;
+  padding: 1em 1.5em;
+  font-size: 0.625rem;
+  text-transform: uppercase;
+  font-weight: 900;
+  letter-spacing: 1px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-image: linear-gradient(to left, #117c13, #41980a);
+  color: #fff;
+  transition: 250ms;
+  transform: scale(1);
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  transform: scale(1.1);
+}
+/* -------------- */
+/* ----media queries--------- */
+/* -------------- */
+
+@media (min-width: 500px) {
+  body {
+    font-size: 1.125rem;
+    display: flex;
+  }
+  h1 {
+    font-size: 3.5rem;
+  }
+  h2,
+  h1 + p {
+    font-size: 1.75rem;
+  }
+  .intro,
+  .main-content {
+    width: 50%;
+    min-height: 100vh; /* set min height to avoid overflow of text if screen screen shrinks */
+  }
+
+  .main-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}

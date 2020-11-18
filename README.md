@@ -2,7 +2,7 @@
 
 A clean responsive website with a form sign-up section which implements JavaScript interactivity on a submit.
 
-![responsiveWebsite](https://user-images.githubusercontent.com/69181038/99561105-a0868080-2994-11eb-9592-84b1de8014c6.PNG){width=50%}
+![responsiveWebsite](https://user-images.githubusercontent.com/69181038/99562390-058ea600-2996-11eb-8a37-422a3af4f9d6.PNG)
 
 ## Motivation
 

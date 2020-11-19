@@ -9,7 +9,7 @@ A clean and responsive website with a sign-up section which implements JavaScrip
 
 ## Motivation
 
-I wanted to practice building an interactive form web page using HTML , CSS and JavaScript.  
+I wanted to practice building a web page with an interactive form that uses ES6 template literals to update the HTML content. 
 
 ## Tech/framework used
 - HTML

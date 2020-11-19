@@ -4,7 +4,7 @@ A clean responsive website with a form sign-up section which implements JavaScri
 
 ![responsiveWebsite](https://user-images.githubusercontent.com/69181038/99562390-058ea600-2996-11eb-8a37-422a3af4f9d6.PNG)
 ![responsiveWebsite2 PNG](https://user-images.githubusercontent.com/69181038/99624304-0d813100-29fc-11eb-9902-973f01fefb27.jpg)
-![] (http://g.recordit.co/a3iba5IbsH.gif)
+![responsiveWebsite](https://user-images.githubusercontent.com/69181038/99626507-54712580-2a00-11eb-8f50-6b6e04a892f8.gif)
 
 ## Motivation
 

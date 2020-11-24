@@ -3,7 +3,7 @@
 A mobile responsive website that has a sign-up section which implements JavaScript interactivity. A user fills in information and recieves a personalized message.
 
 
-##Demo
+## Demo
 
 ### (Screen width < 500 px)
 ![responsiveWebsite2 PNG](https://user-images.githubusercontent.com/69181038/99624304-0d813100-29fc-11eb-9902-973f01fefb27.jpg)

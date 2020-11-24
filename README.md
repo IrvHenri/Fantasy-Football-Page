@@ -1,6 +1,6 @@
 # Portfolio: Responsive Website
 
-A mobile responsive website that has a sign-up section which implements JavaScript interactivity. A user fills in information and recieves a personalized message.
+A responsive website (prototype) for a newsletter with a subscription feature. The user fills in information, submits a form and recieves a personalized message.
 
 
 ## Demo

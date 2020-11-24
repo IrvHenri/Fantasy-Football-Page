@@ -14,7 +14,7 @@ A responsive website (prototype) for a newsletter with a subscription feature. T
 
 ## Motivation
 
-I wanted to practice creating mobile friendly webpages as well as getting more familiar with media queries.
+I wanted sharpen my media query skills and focus on a mobile-first approach to development
 
 ## Tech Stack
 - HTML

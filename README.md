@@ -16,7 +16,7 @@ A mobile responsive website that has a sign-up section which implements JavaScri
 
 I wanted to practice creating mobile friendly webpages as well as getting more familiar with media queries.
 
-## Tech/framework used
+## Tech Stack
 - HTML
 - CSS
 - JavaScript

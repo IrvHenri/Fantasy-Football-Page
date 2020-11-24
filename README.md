@@ -23,4 +23,4 @@ I wanted to practice creating mobile friendly webpages as well as getting more f
 
 
 ## License
-MIT © [Irving Henriquez]()
+MIT © [Irving Henriquez](https://github.com/IrvHenri)

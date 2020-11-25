@@ -1,6 +1,6 @@
 # Portfolio: Responsive Website
 
-A responsive website (prototype) for a newsletter with a subscription feature. The user fills in information, submits a form and recieves a personalized message.
+A responsive website  with a prototype subscription feature. The user fills in information, submits a form and recieves a personalized message.
 
 
 ## Demo

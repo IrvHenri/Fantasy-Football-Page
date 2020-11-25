@@ -14,7 +14,7 @@ A responsive website  with a prototype subscription feature. The user fills in i
 
 ## Motivation
 
-I wanted sharpen my media query skills and focus on a mobile-first approach to development
+I wanted to sharpen my media query skills and focus on a mobile-first approach to development
 
 ## Tech Stack
 - HTML

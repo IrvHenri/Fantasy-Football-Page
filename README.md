@@ -1,4 +1,4 @@
-# Responsive Website
+# Fantasy Football Page
 
 A responsive website  with a prototype subscription feature. The user fills in information, submits a form and recieves a personalized message.
 
